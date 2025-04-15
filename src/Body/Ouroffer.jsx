@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-const Whatweoffer = () => {
+const Ouroffer = () => {
   return (
     <section className="h-[100vh] mt-10 p-5">
       <h1 className="text-3xl font-[times-new-roman] text-center my-5 font-bold">
@@ -83,6 +83,6 @@ const Whatweoffer = () => {
       </div>
     </section>
   );
-}
+};
 
-export default Whatweoffer
+export default Ouroffer;
